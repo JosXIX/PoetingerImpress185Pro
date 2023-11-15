@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="60">
+    <author>JosXIX</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Pöttinger Impress 185VC Pro</en>
+        <de>Pöttinger Impress 185VC Pro</de>
+    </title>
+    <description>
+        <en>My Mod Description</en>
+    </description>
+    <iconFilename>store_impress185VCPro.dds</iconFilename>
+    <storeItems>
+        <storeItem xmlFilename="impress185VCPro.xml"/>
+    </storeItems>
+    <multiplayer supported="true"/>
+</modDesc>
